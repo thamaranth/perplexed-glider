@@ -11,8 +11,8 @@ How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-tw
 
 ## Specifications
 
-- [ ] Read the [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) through Chapter 8: Tupperware
-- [ ] Complete the exercises in the Mostly Adequate Guide (note: there aren't exercises after each chapter - just the ones on Ch 5: Currying, Ch: 6: Coding by Composing, and Ch: 8 Tupperware).
+- [X] Read the [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) through Chapter 8: Tupperware
+- [X] Complete the exercises in the Mostly Adequate Guide (note: there aren't exercises after each chapter - just the ones on Ch 5: Currying, Ch: 6: Coding by Composing, and Ch: 8 Tupperware).
 - [ ] Practice these concepts by completing at least [5 Functional Programming exercises](https://www.codewars.com/kata/latest/my-languages?tags=Functional+Programming) on CodeWars (just a heads up: you're required to answer a couple of super basic JS questions to sign up for CodeWars)
 
 ### Required
